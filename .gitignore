@@ -1,0 +1,24 @@
+# Node
+client/node_modules/
+client/build/
+client/.env
+
+# .NET
+server/bin/
+server/obj/
+server/.vs/
+server/*.user
+server/*.suo
+server/.vscode/
+server/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+**/.docker/
+**/docker-compose.override.yml
